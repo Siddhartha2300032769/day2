@@ -1,0 +1,10 @@
+<!-- user.html -->
+<!DOCTYPE html>
+<html>
+<head>
+    <title>User Feature</title>
+</head>
+<body>
+    <h1>User Feature Page</h1>
+</body>
+</html>
